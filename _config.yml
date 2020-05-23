@@ -10,6 +10,8 @@ search_enables: true
 aux_links:
     "BPS.space":
       - "https://bps.space"
+    "BPS Wiki on GitHub"
+      - "https://github.com/BPS-space/bps-space.github.io"
 
 heading_anchors: true
 
