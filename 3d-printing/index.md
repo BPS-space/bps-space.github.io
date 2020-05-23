@@ -1,9 +1,9 @@
 ---
-title: Electronics
-nav_order: 3
+title: 3D Printing
+nav_order: 1
 ---
 
-# Electronics
+# 3D printing
 
 ## Articles
 

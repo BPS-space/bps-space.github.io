@@ -1,9 +1,9 @@
 ---
-title: Electronics
-nav_order: 3
+title: Mechanical
+nav_order: 4
 ---
 
-# Electronics
+# Mechanical Engineering
 
 ## Articles
 
