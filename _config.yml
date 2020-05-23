@@ -8,7 +8,7 @@ exclude: ["README.md", "LICENSE.txt"]
 search_enables: true
 
 aux_links:
-    "BPS.space Main Site":
+    "BPS.space":
       - "https://bps.space"
 
 heading_anchors: true
