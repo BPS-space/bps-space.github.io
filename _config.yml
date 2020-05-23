@@ -7,4 +7,10 @@ exclude: ["README.md", "LICENSE.txt"]
 
 search_enables: true
 
+aux_links:
+    "BPS.space Main Site":
+      - "https://bps.space"
+
+heading_anchors: true
+
 remote_theme: pmarsceill/just-the-docs
