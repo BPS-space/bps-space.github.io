@@ -1,6 +1,6 @@
 ---
 title: Main Page
-nav_exclue: true
+nav_exclude: true
 ---
 
 Main page.
