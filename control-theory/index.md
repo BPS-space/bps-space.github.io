@@ -1,9 +1,9 @@
 ---
-title: Electronics
-nav_order: 3
+title: Control Theory
+nav_order: 2
 ---
 
-# Electronics
+# Control Theory
 
 ## Articles
 

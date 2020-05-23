@@ -1,9 +1,9 @@
 ---
-title: Electronics
-nav_order: 3
+title: Software
+nav_order: 6
 ---
 
-# Electronics
+# Software
 
 ## Articles
 

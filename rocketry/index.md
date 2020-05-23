@@ -1,9 +1,9 @@
 ---
-title: Electronics
-nav_order: 3
+title: Rocketry
+nav_order: 5
 ---
 
-# Electronics
+# Rocketry
 
 ## Articles
 

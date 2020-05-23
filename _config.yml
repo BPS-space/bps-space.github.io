@@ -1,3 +1,18 @@
-# theme: jekyll-theme-cayman
+title: BPS Wiki
+description: Resources for rocketry, electronics, software, and more!
+
+exclude: ["README.md", "LICENSE.txt"]
+
+# logo: # Put BPS logo here
+
+search_enables: true
+
+aux_links:
+    "BPS.space":
+      - "https://bps.space"
+    "BPS Wiki on GitHub":
+      - "https://github.com/BPS-space/bps-space.github.io"
+
+heading_anchors: true
 
 remote_theme: pmarsceill/just-the-docs
