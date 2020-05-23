@@ -1,9 +1,7 @@
 ---
-title: Main Page
+title: Home
 nav_exclude: true
 ---
-
-Main page.
 
 ## Contributing
 
