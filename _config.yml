@@ -1,3 +1,10 @@
-# theme: jekyll-theme-cayman
+title: BPS Wiki
+description: Resources for rocketry, electronics, software, and more!
+
+exclude: ["README.md", "LICENSE.txt"]
+
+# logo: # Put BPS logo here
+
+search_enables: true
 
 remote_theme: pmarsceill/just-the-docs
