@@ -7,8 +7,6 @@ nav_order: 4
 
 ## Articles
 
-* [Example](example.md)
-
 ## External Pages
 
 ## Books
