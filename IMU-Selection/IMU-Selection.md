@@ -25,5 +25,5 @@ nav_order: 3
 | LSM6DS0 | $5.25 |  6 (Acc/Gy/) | ±16g  ±2000°/sec  | 16Bit | ±20mg ±1º/s | A few | Kinda, really recommend the LSM9DS1 a bit more due to it being proven out and better libraries | 
 | BNO055 | $11.16 |  9 (Acc/Gy/Mag) | ±16g  ±2000°/sec ±13gauss | 16Bit(gyro/mag) 14bit(acc) | ±80mg ±2º/s ±.04 gauss| Multiple libraries | No, you're paying more for an onboard processor that doesn't work with rocket g-loads |
 | BMI055 | $6.61 |  9 (Acc/Gy/Mag) | ±16g  ±2000°/sec ±13gauss | 16Bit(gyro/mag) 14bit(acc) | ±80mg ±2º/s ±.04 gauss| No | Yes, same sensors as the BNO but without the processor |
-| BMX055 | $7.99|  56 (Acc/Gy) | ±16g  ±2000°/sec  | 16Bit | ±80mg ±2º/s | No | Yes, same sensors as BNO minus magnetometer and processor |
-| BMI088 | $7.87 |  6 (Acc/Gy/Mag) | ±24g  ±2000°/sec | 8Bit | ±20mg ±1º/s | One | Yes, good newer sensors with lower drift figures and stable readings|
+| BMX055 | $7.99|  6 (Acc/Gy) | ±16g  ±2000°/sec  | 16Bit | ±80mg ±2º/s | No | Yes, same sensors as BNO minus magnetometer and processor |
+| BMI088 | $7.87 |  6 (Acc/Gy) | ±24g  ±2000°/sec | 8Bit | ±20mg ±1º/s | One | Yes, good newer sensors with lower drift figures and stable readings|
