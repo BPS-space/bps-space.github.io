@@ -15,7 +15,7 @@ nav_order: 3
 
 ## **DO NOT USE THE MPU SERIES, Their sensing technology is ancient, driftier than InitialD, total BS in the datasheet, and the DMP is useless** 
 
-## Supply your sensors with clean, solid and quiet voltage for best results
+## Supply your sensors with a clean, solid and quiet voltage rail for best results
 
 | IMU Name | Price | DOF | Ranges | Precision | Drift figures | Library? | Recommended|
 | ---      | ---   |---  |---      |---        |---            |---       |---|   
