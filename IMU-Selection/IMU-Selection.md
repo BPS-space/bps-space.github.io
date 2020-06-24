@@ -8,6 +8,7 @@ nav_order: 3
 * Consider expected G loads, then double or triple for safety margins 
 * Lower drift figures are usually better but watch out for best case scenario lies (lookin at you invensense)
 * Bosch and ST have FAR better sensing topology than Invensense almost as a rule
+* Note that the BNO055 has onboard sensor processing you pay extra for that will NOT work in a rocket context, buy the BMX055. 
 * Spending that bit extra on a better sensor will help alleviate pain down the line as you don't have to fight it as much
 * Don't bother with breakouts on flight hardware, design your own integration on the flight board, follow the datasheet's recommended layout and circuits, maybe add a bit of extra decoupling, as a treat. 
 * Breakouts being attached to your board can lead to sensor decoupling sensed motion from your airframe due to waffling around which is why we don't really recommend using them even though it seems easier. SMD soldering is not that hard and saves you money and pain 
