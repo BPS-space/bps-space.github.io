@@ -29,3 +29,5 @@ nav_order: 3
 | BMI055 | $6.61 |  9 (Acc/Gy/Mag) | ±16g  ±2000°/sec ±13gauss | 16Bit(gyro/mag) 14bit(acc) | ±80mg ±2º/s ±.04 gauss| No | Yes, same sensors as the BNO but without the processor |
 | BMX055 | $7.99|  6 (Acc/Gy) | ±16g  ±2000°/sec  | 16Bit | ±80mg ±2º/s | No | Yes, same sensors as BNO minus magnetometer and processor |
 | BMI088 | $7.87 |  6 (Acc/Gy) | ±24g  ±2000°/sec | 16Bit | ±20mg ±1º/s | One | Yes, good newer sensors with lower drift figures and stable readings|
+
+There is litererally hundreds of IMU's out there to choose from. Make sure you do your research and follow this guide to find the best one for your project. Keep in mind, once you receive your IMU, you have a lot of software to write to pull orientation out of it. There is no simple way to do this, just do your research and work through it bit by bit. 
