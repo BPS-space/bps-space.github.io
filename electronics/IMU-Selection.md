@@ -1,5 +1,6 @@
 ---
 title: IMU Selection Guide
+parent: Electronics
 ---
 
 # *How to choose an IMU* 
