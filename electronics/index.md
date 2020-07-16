@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Articles
 
+* [IMU Selection](IMU-Selection)
+
 ## External Pages
 
 ## PCB Fabricators
