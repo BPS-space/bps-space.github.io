@@ -21,3 +21,7 @@ has_toc: false
 
 * [Control System Design: An Introduction to State-Space Methods](https://www.amazon.com/Control-System-Design-Introduction-State-Space/dp/0486442780/) by Bernard Friedland - An in depth book on state space modelling. Not recommended for beginners.
 * [The Fundamentals of Control Theory](https://www.patreon.com/posts/book-is-now-free-28313078) by Brian Douglas - A free ebook that gives an intuitive understand of the basics of control theory.
+
+## PID Tuning Software
+
+* [Anvil Tuner](https://github.com/cheesefacejoe/Anvil-PID-Tuner) by cheesefacejoe on the BPS discord - A free, open source tool designed to run a simple simulation of a TVC rocket flight. It allows the User to manually tune their PID controller to obtain rough values for their controller gains.
