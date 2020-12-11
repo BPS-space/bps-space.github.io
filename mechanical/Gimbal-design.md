@@ -1,6 +1,6 @@
 ---
 title: Basics of designing a TVC gimbal
-parent: mechanical
+parent: Mechanical
 ---
 
 # *How to design a TVC gimbal without geometry collisions* 
