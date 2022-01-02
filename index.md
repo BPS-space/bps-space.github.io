@@ -29,7 +29,7 @@ it needs to have a dedicated page so people can find it. Unfinished articles are
 allowed, as along as they are marked as such.
 
 If you're just adding a link to a book or another website, then that can simply
-be added to the `index.md` file of the appropriate category.
+be added to the `.md` file of the appropriate category.
 
 ### Adding an Article
 
