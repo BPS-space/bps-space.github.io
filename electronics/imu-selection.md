@@ -1,5 +1,5 @@
 ---
-parent: Electrical Engineering
+parent: Electrical Enginnering
 ---
 
 # _How to choose an IMU_
