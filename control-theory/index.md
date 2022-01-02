@@ -1,3 +1,6 @@
+---
+---
+
 # Control Theory
 
 ## Videos
@@ -29,6 +32,14 @@
 [euler-angles]: https://web.archive.org/web/20210506165437/https://www.chrobotics.com/library/understanding-euler-angles
 [quaternions]: https://web.archive.org/web/20210307022920/http://www.chrobotics.com/library/understanding-quaternions
 [delft-paper]: https://arxiv.org/pdf/1704.06053.pdf
+
+### Kalman Filters
+
+A very useful filter that also is quite complicated
+
+-   [How a Kalman filter works in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+-   [Kalmanfilter.net](https://www.kalmanfilter.net/default.aspx)
+-   [The Kalman Filter](https://engineeringmedia.com/controlblog/the-kalman-filter)
 
 ## Books
 
