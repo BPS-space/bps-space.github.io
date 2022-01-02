@@ -24,3 +24,25 @@ has_children: true
 [openscad]: https://openscad.org/
 [inventor]: https://www.autodesk.com/products/inventor/overview
 [fusion360]: https://www.autodesk.com/products/fusion-360/overview
+
+## Hardware Supplier
+
+-   [McMaster-Carr] - Your one stop shop for anything hardware. Everything you could
+    find at your local hardware store plus more. Metal inserts for your 3d prints,
+    fasteners for your anything, they will have it.
+
+[mcmaster-carr]: https://www.mcmaster.com/
+
+## Articles
+
+-   [Basic rules of designing for CNC milling][cnc-milling]
+
+[cnc-milling]: https://www.adambender.info/post/design-for-cnc-milling
+
+## Books
+
+-   [Engineers' Practical Databook][engineers-databook]
+-   [Machinery's Handbook, Toolbox Edition][machinery-handbook] by Eric Odberg
+
+[engineers-databook]: https://www.amazon.com/Engineers-Practical-Databook-Technical-Professionals-ebook/dp/B07BLLXMPR
+[machinery-handbook]: https://www.amazon.com/Machinerys-Handbook-Toolbox-Erik-Oberg/dp/0831130911/

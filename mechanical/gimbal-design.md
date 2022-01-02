@@ -10,18 +10,21 @@ This will walk you through designing a kinematic reference volume that you can
 use to visualize and verify where the TVC mount will swing at its greatest extent.
 Knowing this can allow for better servo placement.
 
-1. After designing your motor retainer tube take a side projection of it's outline
-   ![Side projection](https://imgur.com/o6NJf2Z.png)
+(_Assumes you are using Fusion360, but applicable to other CAD programs_)
 
-2. Rotate off center axis by the maximum expected deflection
-   (in this example 6.91 degrees)  
-   ![Rotated ref geometry sketch](https://imgur.com/Ul3seVf.png)
+1. After designing your motor retainer tube take a side projection of its outline
+   ![Side projection of the retainer view](gimbal-design/retainer-tube-side-projection.png)
 
-3. Using center axis as a splitter and reference axis, revolve both halves of the
-   sketch
-   ![Revolved geometry half](https://imgur.com/ZbFTjj4.png)
+2. Rotate the projection from vertical by the maximum expected deflection
+   (in this example 6.91 degrees)
+   ![Rotated projection by the maximum deflection](gimbal-design/rotated-projection.png)
 
-4. In assembly environment, set reference geometry to disabled
-   ![Notional gimbal with ref geometry](https://imgur.com/aPRQ2P9.png)
+3. Use the vertical axis to split the projection, applying a revolve to both halves
+   around the same vertical axis
+   ![Left half of the projection revolved around the top axis](gimbal-design/revolved-projection.png)
+
+4. Set a transparency, and, in the assembly environment, set reference geometry
+   to disabled as for this to not interact with your other parts.
+   ![Notional gimbal with ref geometry](gimbal-design/final.png)
 
 **Now get out there and design some fresh gimbals!**

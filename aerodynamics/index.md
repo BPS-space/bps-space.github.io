@@ -3,7 +3,7 @@
 -   [XFOIL] - a tool for designing and analyzing subsonic airfoils
 -   [Ansys] provides many free products for students, including excellent CFD
     (Computational Fluid Dynamics)
--   [OpenRocket][open-rocket] - A free, open source rocket simulator. A must-have
+-   [OpenRocket] - A free, open source rocket simulator. A must-have
     for designing rockets of all sizes.
 -   [Parachute Recovery Systems Design Manual][parachutes] - If you want to know
     literally everything about designing parachutes.
