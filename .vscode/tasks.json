@@ -6,7 +6,7 @@
         {
             "label": "Serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve ", //--livereload
+            "command": "bundle exec jekyll serve --livereload",
             "group": {
                 "kind": "test",
                 "isDefault": true
