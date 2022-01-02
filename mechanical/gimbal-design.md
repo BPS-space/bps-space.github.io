@@ -1,5 +1,5 @@
 ---
-parent: Mechanical
+parent: Mechanical Engineering
 ---
 
 # _How to design a TVC gimbal to prevent collisions_
