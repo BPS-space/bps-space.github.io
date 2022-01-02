@@ -1,8 +1,6 @@
 title: "BPS Wiki"
 description: "Resources for rocketry, electronics, software, and more!"
 
-exclude: ["LICENSE.txt"]
-
 remote_theme: "pmarsceill/just-the-docs"
 
 search_enabled: true
