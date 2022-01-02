@@ -11,9 +11,9 @@
     Section 5 and Appendix A are useful for learning about quaternions.
 -   [Understanding Euler Angles][euler-angles] - Detailed and well written page
     about euler angles.
--   [Understanding Quaternions][quaternions] - An alternative to eular angles.
+-   [Understanding Quaternions][quaternions] - An alternative to euler angles.
     More difficult, however it avoids the infamous problem of gimbal lock and
-    other issues with eular angles.
+    other issues with euler angles.
 
 [arduino-pid]: http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
 [arduino-pid-gh]: https://github.com/br3ttb/Arduino-PID-Library/

@@ -1,5 +1,5 @@
 ---
-parent: Electrical Enginnering
+parent: Electrical Engineering
 ---
 
 # _How to choose an IMU_
@@ -7,7 +7,7 @@ parent: Electrical Enginnering
 -   Please for the love of god don't use a sensor just because it's cheap
 -   Consider expected G loads, then double or triple for safety margins
 -   Lower drift figures are usually better but watch out for best case scenario
-    lies (lookin at you invensense)
+    lies (looking at you invensense)
 -   Bosch and ST have FAR better sensing topology than Invensense almost as a rule
 -   Note that the BNO055 has onboard sensor processing you pay extra for that
     will NOT work in a rocket context, buy the BMX055.
@@ -30,7 +30,7 @@ Supply your sensors with a clean, solid and quiet voltage rail for best results.
 
 **A** = Accelerometer
 **G** = Gyroscope
-**M** = Magnometer
+**M** = Magnetometer
 
 | Name      | Price    | [DOF]     | Ranges                   | Precision           | Drift figures                 | Library?           | Recommended                                                                                    |
 | --------- | -------- | --------- | ------------------------ | ------------------- | ----------------------------- | ------------------ | ---------------------------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ Supply your sensors with a clean, solid and quiet voltage rail for best results.
 
 [dof]: https://en.wikipedia.org/wiki/Degrees_of_freedom
 
-There are litererally hundreds of IMU's out there to choose from. Make sure you
+There are literally hundreds of IMU's out there to choose from. Make sure you
 do your research and follow this guide to find the best one for your project.
 Keep in mind, once you receive your IMU, you have a lot of software to write to
 pull orientation out of it. There is no simple way to do this, just do your
