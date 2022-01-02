@@ -1,7 +1,16 @@
 ---
+title: Propulsion
 ---
 
-# Propulsion
+<h1>Propulsion</h1>{: .no_toc }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 > We generally don't encourage building your own rocket motors unless you're
 > working with a mentor or engineer who can help steer you in the right direction.

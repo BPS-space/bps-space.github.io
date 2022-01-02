@@ -1,7 +1,16 @@
 ---
+title: Control Theory
 ---
 
-# Control Theory
+<h1>Control Theory</h1>{: .no_toc }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Videos
 
