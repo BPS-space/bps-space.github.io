@@ -2,4 +2,25 @@
 has_children: true
 ---
 
-# Mechanical Engineering
+# Mechanical Design
+
+## Software
+
+-   [FreeCAD] - Free and open source CAD tool. Quite basic compared to other
+    commercial CAD programs, but most of the features offered by those programs
+    are very unlikely to be needed by amateurs or hobbyists.
+-   [OpenSCAD] - This is a weird one. Rather than graphically editing your
+    3d models, like you would do in all other CAD programs, this program
+    works more like a scripting language for writing your CAD as code, leaving
+    the artistic aspects of design. It takes parametric modelling to its furthest
+    extent.
+-   [Fusion360] - Commercial CAD offered by Autodesk. Free for hobbyists and
+    students. Windows/macos only and forces online storage of your CAD. Many
+    makers swear by this program.
+-   [Autodesk Inventor][inventor] - Windows only. Has a student license. Very
+    featured, but aimed more at professionals than hobbyists.
+
+[freecad]: https://www.freecadweb.org/
+[openscad]: https://openscad.org/
+[inventor]: https://www.autodesk.com/products/inventor/overview
+[fusion360]: https://www.autodesk.com/products/fusion-360/overview

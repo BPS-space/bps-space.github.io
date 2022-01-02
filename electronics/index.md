@@ -2,7 +2,21 @@
 has_children: true
 ---
 
-# Electrical Engineering
+# Electronics
+
+## Software
+
+-   [KiCad] - is a free and open source PCB CAD program that has all the features
+    any hobbyist would need plus more
+-   [EasyEDA] - is a free, but proprietary, web-based PCB CAD suite that has
+    lots of features and integrates well with their creator, JLCPCB,
+    very well.
+-   [EAGLE] - a commercial PCB CAD program offered by Autodesk. It is possible
+    to get for free as a student or hobbyist, but autodesk makes it hard to find
+
+[kicad]: https://www.autodesk.com/products/eagle/overview
+[easyeda]: https://easyeda.com/
+[eagle]: https://kicad-pcb.org/
 
 ## PCB Fabricators
 

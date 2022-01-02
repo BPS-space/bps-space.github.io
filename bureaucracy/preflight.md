@@ -1,0 +1,5 @@
+---
+parent: Bureaucracy
+---
+
+# Preflight

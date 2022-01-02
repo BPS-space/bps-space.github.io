@@ -1,5 +1,5 @@
 ---
-parent: Rocketry
+parent: Bureaucracy
 ---
 
 # Regulation
