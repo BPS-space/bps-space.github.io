@@ -1,5 +1,5 @@
 ---
-parent: Miscilaneous
+parent: Miscellaneous
 ---
 
 # Book recommendations

@@ -1,5 +1,6 @@
 title: "BPS Wiki"
 description: "Resources for rocketry, electronics, software, and more!"
+source: content
 
 exclude: ["LICENSE.txt"]
 
