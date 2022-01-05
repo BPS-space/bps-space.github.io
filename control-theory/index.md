@@ -46,9 +46,19 @@ title: Control Theory
 
 A very useful filter that also is quite complicated
 
--   [How a Kalman filter works in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
--   [Kalmanfilter.net](https://www.kalmanfilter.net/default.aspx)
--   [The Kalman Filter](https://engineeringmedia.com/controlblog/the-kalman-filter)
+-   [How a Kalman filter works in pictures][kalman-pictures]
+-   [Kalmanfilter.net][kalman-net]
+-   [The Kalman Filter][the-kalman]
+-   [A practical approach to Kalman filter and how to implement it][practical-kalman]
+    ([Github Repo][practical-kalman-gh]) - Pretty detailed article about Kalman
+    filters and how to use them in your code. Includes some C++ code and a library
+    for easy Arduino implementation.
+
+[kalman-pictures]: https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+[kalman-net]: https://www.kalmanfilter.net/default.aspx
+[the-kalman]: https://engineeringmedia.com/controlblog/the-kalman-filter
+[practical-kalman]: http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
+[practical-kalman-gh]: https://github.com/TKJElectronics/KalmanFilter
 
 ## Books
 
