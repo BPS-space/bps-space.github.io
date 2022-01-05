@@ -2,6 +2,7 @@
 title: Propulsion
 ---
 
+<!-- DO NOT MODIFY -->
 <h1>Propulsion</h1>{: .no_toc }
 <details open markdown="block">
   <summary>
@@ -11,6 +12,7 @@ title: Propulsion
 1. TOC
 {:toc}
 </details>
+<!-- END DO NOT MODIFY -->
 
 > We generally don't encourage building your own rocket motors unless you're
 > working with a mentor or engineer who can help steer you in the right direction.

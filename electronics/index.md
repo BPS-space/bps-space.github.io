@@ -3,6 +3,7 @@ title: Electronics
 has_children: true
 ---
 
+<!-- DO NOT MODIFY -->
 <h1>Electronics</h1>{: .no_toc }
 <details open markdown="block">
   <summary>
@@ -12,6 +13,7 @@ has_children: true
 1. TOC
 {:toc}
 </details>
+<!-- END DO NOT MODIFY -->
 
 ## Software
 

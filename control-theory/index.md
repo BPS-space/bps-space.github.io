@@ -2,6 +2,7 @@
 title: Control Theory
 ---
 
+<!-- DO NOT MODIFY -->
 <h1>Control Theory</h1>{: .no_toc }
 <details open markdown="block">
   <summary>
@@ -11,6 +12,7 @@ title: Control Theory
 1. TOC
 {:toc}
 </details>
+<!-- END DO NOT MODIFY -->
 
 ## Videos
 
