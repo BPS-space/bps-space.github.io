@@ -5,8 +5,9 @@ has_children: false
 has_toc: false
 ---
 
-<!-- DO NOT MODIFY -->
 <h1>Control Theory</h1>{: .no_toc }
+
+<!-- DO NOT MODIFY -->
 <details open markdown="block">
   <summary>
     Table of contents

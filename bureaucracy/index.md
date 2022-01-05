@@ -5,8 +5,12 @@ has_children: true
 has_toc: false
 ---
 
-<!-- DO NOT MODIFY -->
 <h1>Bureaucracy</h1>{: .no_toc }
+
+Everyone's favorite part of rocketry.
+{: .fs-6 .fw-300 }
+
+<!-- DO NOT MODIFY -->
 <details open markdown="block">
   <summary>
     Table of contents

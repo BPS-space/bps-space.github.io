@@ -5,8 +5,9 @@ has_children: true
 has_toc: false
 ---
 
-<!-- DO NOT MODIFY -->
 <h1>Mechanical Design</h1>{: .no_toc }
+
+<!-- DO NOT MODIFY -->
 <details open markdown="block">
   <summary>
     Table of contents
