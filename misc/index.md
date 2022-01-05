@@ -1,6 +1,8 @@
 ---
 title: Miscellaneous
+
 has_children: true
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->
@@ -14,6 +16,10 @@ has_children: true
 {:toc}
 </details>
 <!-- END DO NOT MODIFY -->
+
+## Articles
+
+-   [Book Recommendations](books.md)
 
 ## Student Rocketry Donations
 

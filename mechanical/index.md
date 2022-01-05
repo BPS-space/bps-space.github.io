@@ -1,6 +1,8 @@
 ---
 title: Mechanical Design
+
 has_children: true
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->
@@ -14,6 +16,13 @@ has_children: true
 {:toc}
 </details>
 <!-- END DO NOT MODIFY -->
+
+## Articles
+
+-   [How to design a TVC gimbal to prevent collisions](gimbal-design.md)
+-   [Basic rules of designing for CNC milling][cnc-milling]
+
+[cnc-milling]: https://www.adambender.info/post/design-for-cnc-milling
 
 ## Software
 
@@ -43,12 +52,6 @@ has_children: true
     fasteners for your anything, they will have it.
 
 [mcmaster-carr]: https://www.mcmaster.com/
-
-## Articles
-
--   [Basic rules of designing for CNC milling][cnc-milling]
-
-[cnc-milling]: https://www.adambender.info/post/design-for-cnc-milling
 
 ## Books
 

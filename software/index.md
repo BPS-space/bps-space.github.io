@@ -1,5 +1,8 @@
 ---
 title: Software Development
+
+has_children: false
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->

@@ -1,6 +1,8 @@
 ---
 title: Bureaucracy
+
 has_children: true
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->
@@ -14,3 +16,9 @@ has_children: true
 {:toc}
 </details>
 <!-- END DO NOT MODIFY -->
+
+## Articles
+
+-   [Launch Site](launch-site.md)
+-   [Preflight](preflight.md)
+-   [Regulation](regulation.md)

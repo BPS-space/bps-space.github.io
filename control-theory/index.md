@@ -1,5 +1,8 @@
 ---
 title: Control Theory
+
+has_children: false
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->

@@ -1,5 +1,8 @@
 ---
 title: 3D Printing
+
+has_children: false
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->

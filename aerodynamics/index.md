@@ -1,5 +1,8 @@
 ---
 title: Aerodynamics
+
+has_children: false
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->

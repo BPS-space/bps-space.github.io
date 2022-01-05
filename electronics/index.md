@@ -1,6 +1,8 @@
 ---
 title: Electronics
+
 has_children: true
+has_toc: false
 ---
 
 <!-- DO NOT MODIFY -->
@@ -14,6 +16,10 @@ has_children: true
 {:toc}
 </details>
 <!-- END DO NOT MODIFY -->
+
+## Articles
+
+-   [IMU Selection](imu-selection.md)
 
 ## Software
 

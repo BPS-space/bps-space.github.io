@@ -37,11 +37,12 @@ be added to the `.md` file of the appropriate category.
 2. Add your article as a `.md` file in the appropriate folder. If a folder does
    not exist, create one with the name of an existing category. If the category
    does not exist, create the category as well.
-3. Add any asserts (pictures, schematic files, etc.) to a folder with the name
+3. Add a link to your new article in the `## Articles` section of `index.md`
+4. Add any assets (pictures, schematic files, etc.) to a folder with the name
    of the article in the same parent folder. If the article is
    `/electronics/pyro-channels.md`, then an asset will be placed in
    `/electronics/pyro-channels/schematic1.png`.
-4. Submit a pull request to the main repo and include a short description of
+5. Submit a pull request to the main repo and include a short description of
    your changes
 
 [github]: https://github.com/BPS-space/bps-space.github.io
