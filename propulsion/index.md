@@ -5,26 +5,12 @@ has_children: false
 has_toc: false
 ---
 
+<!-- Page title (excluded from Table of Contents) -->
 <h1>Propulsion</h1>{: .no_toc }
 
-<!-- DO NOT MODIFY -->
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-<!-- END DO NOT MODIFY -->
+{% include toc.html %} <!-- Table of Contents -->
 
-> We generally don't encourage building your own rocket motors unless you're
-> working with a mentor or engineer who can help steer you in the right direction.
-> For safety reasons, we don't discuss homemade rocket motors here. If you're
-> interested in doing this, I recommend checking out the Rocketry subreddit
-> <https://www.reddit.com/r/rocketry/>
-
-&mdash; BPS Space Discord Rule 3a
+{% include rules/3a.md %} <!-- Include rule 3a -->
 
 ## Software
 

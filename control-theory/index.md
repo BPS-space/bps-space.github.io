@@ -5,18 +5,10 @@ has_children: false
 has_toc: false
 ---
 
+<!-- Page title (excluded from Table of Contents) -->
 <h1>Control Theory</h1>{: .no_toc }
 
-<!-- DO NOT MODIFY -->
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-<!-- END DO NOT MODIFY -->
+{% include toc.html %} <!-- Table of Contents -->
 
 ## Videos
 
