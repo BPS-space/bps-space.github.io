@@ -6,7 +6,7 @@ has_toc: false
 ---
 
 <!-- Page title (excluded from Table of Contents) -->
-<h1>Bureaucracy</h1>{: .no_toc }
+<h1>{{ page.title }}</h1>{: .no_toc }
 
 Everyone's favorite part of rocketry.
 {: .fs-6 .fw-300 }
@@ -23,10 +23,11 @@ Everyone's favorite part of rocketry.
 
 If you are new to rocketry and want to know about the rules and regulations
 of where you plan to fly, and do not know what governing bodies set those out,
-reach out to a [nearby student rocketry team][student-rocketry]. These teams are
-made up of many passionate students who have experience dealing with the laws of
-the area and can help guide you on your way.
+reach out to a [nearby student rocketry team][student-rocketry] or [rocketry club][nar-club-locator].
+These teams are made up of many passionate students or hobbyists who have
+experience dealing with the laws of the area and can help guide you on your way.
 
+[nar-club-locator]: https://www.nar.org/find-a-local-club/nar-map-locator/
 [student-rocketry]: https://github.com/Lars-0/StudentRocketProjects
 
 ## Rocketry Organizations

@@ -1,7 +1,0 @@
----
-parent: Bureaucracy
----
-
-# Preflight
-
-TODO:

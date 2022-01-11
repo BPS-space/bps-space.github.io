@@ -6,7 +6,7 @@ has_toc: false
 ---
 
 <!-- Page title (excluded from Table of Contents) -->
-<h1>Control Theory</h1>{: .no_toc }
+<h1>{{ page.title }}</h1>{: .no_toc }
 
 {% include toc.html %} <!-- Table of Contents -->
 
