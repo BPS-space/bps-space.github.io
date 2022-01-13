@@ -35,7 +35,14 @@ If you do not own the land that you plan to launch from which will be most cases
 unless you own acres of land, then you will have to get permission to use the
 land to launch your rockets.
 
-TODO:
+If the land is owned by your local town, make sure to contact them. If the land
+is private, contact the appropriate landowner, making sure to explain the activities
+you will be doing on their property.
+
+When contacting someone about the use of their property, be it a public authority
+or a private person, make sure to explain the safety measures and local regulations
+that you know and will follow to ensure the safety of you, their property, and others
+in proximity to the launch.
 
 [nar-club-locator]: https://www.nar.org/find-a-local-club/nar-map-locator/
 [nar-codes]: https://www.nar.org/safety-codes-2/
