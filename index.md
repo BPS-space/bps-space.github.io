@@ -17,7 +17,8 @@ nav_order: 1
 
 ## About
 
-TODO: about section
+This wiki is dedicated to being a hub for links to useful programs, books,
+webpages as well as curated articles created by members of the BPS community
 
 ---
 
