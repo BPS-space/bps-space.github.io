@@ -1,18 +1,23 @@
-title: BPS Wiki
-description: Resources for rocketry, electronics, software, and more!
+title: "BPS Wiki"
+description: "Resources for rocketry, electronics, software, and more!"
 
-exclude: ["README.md", "LICENSE.txt"]
+remote_theme: "pmarsceill/just-the-docs"
 
-# logo: # Put BPS logo here
-
-search_enables: true
-
-aux_links:
-    "BPS.space":
-      - "https://bps.space"
-    "BPS Wiki on GitHub":
-      - "https://github.com/BPS-space/bps-space.github.io"
-
+search_enabled: true
 heading_anchors: true
 
-remote_theme: pmarsceill/just-the-docs
+back_to_top: true
+back_to_top_text: "Back to top"
+
+aux_links_in_new_tab: true
+aux_links:
+  "BPS.space":
+    - "https://bps.space"
+  "BPS Wiki on GitHub":
+    - "https://github.com/BPS-space/bps-space.github.io"
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/BPS-space/bps-space.github.io" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately

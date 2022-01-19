@@ -1,14 +1,11 @@
 ---
-title: Software
-nav_order: 6
-has_children: true
+title: Software Development
+
+has_children: false
 has_toc: false
 ---
 
-# Software
+<!-- Page title (excluded from Table of Contents) -->
+<h1>{{ page.title }}</h1>{: .no_toc }
 
-## Articles
-
-## External Pages
-
-## Books
+{% include toc.html %} <!-- Table of Contents -->

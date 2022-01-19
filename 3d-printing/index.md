@@ -1,14 +1,11 @@
 ---
 title: 3D Printing
-nav_order: 1
-has_children: true
+
+has_children: false
 has_toc: false
 ---
 
-# 3D printing
+<!-- Page title (excluded from Table of Contents) -->
+<h1>{{ page.title }}</h1>{: .no_toc }
 
-## Articles
-
-## External Pages
-
-## Books
+{% include toc.html %} <!-- Table of Contents -->
