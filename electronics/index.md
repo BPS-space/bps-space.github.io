@@ -24,9 +24,9 @@ has_toc: false
 -   [EAGLE] - a commercial PCB CAD program offered by Autodesk. It is possible
     to get for free as a student or hobbyist, but autodesk makes it hard to find
 
-[kicad]: https://www.autodesk.com/products/eagle/overview
+[kicad]: https://kicad.org/ 
 [easyeda]: https://easyeda.com/
-[eagle]: https://kicad-pcb.org/
+[eagle]: https://www.autodesk.com/products/eagle/overview
 
 ## PCB Fabricators
 
