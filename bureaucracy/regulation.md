@@ -56,7 +56,7 @@ and please [edit this page on GitHub][edit] so your region can be added.
     to still know local safety codes, since they may differ slightly from
     these.
     -   [NFPA Code 1122][nfpa-1122] - Code for Model Rocketry
-    -   [NFPA Code 1122][nfpa-1122] - Code for High Power Rocketry
+    -   [NFPA Code 1127][nfpa-1127] - Code for High Power Rocketry
 -   [NAR] - While not specifically a regulatory body, they are a lobby for model
     rocketry, helping standardize rocketry legislation across the USA. Their
     [Model Rocket Safety Codes][nar-safety-code] lay out an abridged version of
