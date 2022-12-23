@@ -41,8 +41,8 @@ results
 | LSM6DS0   | $5.25    | 6 (A+G)   | ±16g ±2000°/sec          | 16Bit               | ±20mg ±1º/s                   | Some     | Maybe, really recommend the LSM9DS1 a bit more due to it being proven out and better supported |
 | LSM6DS032 | $3.79    | 6 (A+G)   | ±32g ±2000°/sec          | 16Bit               | ±20mg ±0.5º/s                 | One      | Maybe, a newer sensor with support from adafruit                                               |
 | BNO055    | $11.16   | 9 (A+G+M) | ±16g ±2000°/sec ±13gauss | 16Bit(G/M) 14bit(A) | ±80mg ±2º/s ±.04 gauss        | Many     | No, built-in sensor fusion fails under flight loads                                            |
-| BMI055    | $7.27    | 9 (A+G+M) | ±16g ±2000°/sec ±13gauss | 16Bit(G/M) 14bit(A) | ±80mg ±2º/s ±.04 gauss        | None     | Yes, same sensors as the BNO but without the processor                                         |
-| BMX055    | $6.00    | 6 (A+G)   | ±16g ±2000°/sec          | 16Bit               | ±80mg ±2º/s                   | None     | Yes, same sensors as BNO minus magnetometer and processor                                      |
+| BMX055    | $7.27    | 9 (A+G+M) | ±16g ±2000°/sec ±13gauss | 16Bit(G/M) 14bit(A) | ±80mg ±2º/s ±.04 gauss        | None     | Yes, same sensors as the BNO but without the processor                                         |
+| BMI055    | $6.00    | 6 (A+G)   | ±16g ±2000°/sec          | 16Bit               | ±80mg ±2º/s                   | None     | Yes, same sensors as BNO minus magnetometer and processor                                      |
 | BMI088    | $7.30    | 6 (A+G)   | ±24g ±2000°/sec          | 16Bit               | ±20mg ±1º/s                   | One      | Yes, best choice, a good newer sensor with lower drift figures than others                     |
 
 [dof]: https://en.wikipedia.org/wiki/Degrees_of_freedom "Degrees of freedom"
